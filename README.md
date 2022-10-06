@@ -65,7 +65,9 @@ Plantの伝達関数の推定やPIDのパラメータの最適化が行えるこ
 
 ### MathWorks Products (https://www.mathworks.com)
 
-Requires MATLAB release R2022 or newer
+Requires MATLAB release R2021a or newer
+(You chan switch blanch to "R21a" if you want Run R2021a.)
+
 MATLAB&reg;/
 Simulink&reg;/
 Simscape&trade;/
