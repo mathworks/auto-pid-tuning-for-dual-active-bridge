@@ -5,7 +5,9 @@ Dual Active Bridges are often used in the following applications because they ca
 - Interconversion on different voltage lines in DC microgrids
 - Conversion of high voltages (>400V) to 48V or 12V in electric and hybrid vehicles
 - Fast chargers for different DC outputs
-![444BECBD-FDF2-4DCE-8B70-66D2047DD8AF](/uploads/22aefae5fde630346fcab49ed8b95e69/444BECBD-FDF2-4DCE-8B70-66D2047DD8AF.MP4)
+![B3AEE94E-1F30-46D6-AE3D-E93822F9AE10](https://user-images.githubusercontent.com/62166747/194195458-688b62e0-8b66-4898-a2a5-8a74053b0316.GIF)
+![Snag_11d50812](https://user-images.githubusercontent.com/62166747/194195533-081e1062-532d-4ffc-98ad-cb11df038bae.png)
+
 ## Setup 
 To Run Dual Active Bridge Converte Model:
 1. Open Project File.
